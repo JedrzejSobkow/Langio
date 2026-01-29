@@ -107,3 +107,12 @@ The project follows a simple modular structure separating logic, data models, an
 * Jetpack Compose
 * JSON (local storage)
 * MediaPlayer (audio playback)
+
+## Application Appearance
+
+<img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/7578559b-b117-4b60-923f-2f3366cd4a10" />
+<img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/f6e6cb65-5633-45ec-8008-822fd4606843" />
+<img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/f9c5b7c7-49e2-460d-9017-6749bedec3f6" />
+<img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/7c96ee2e-0036-40ce-8e91-6b9b08deaf3b" />
+
+
