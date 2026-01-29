@@ -108,6 +108,8 @@ The project follows a simple modular structure separating logic, data models, an
 * JSON (local storage)
 * MediaPlayer (audio playback)
 
+---
+
 ## Application Appearance
 
 <img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/7578559b-b117-4b60-923f-2f3366cd4a10" />
